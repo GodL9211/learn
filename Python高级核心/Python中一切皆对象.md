@@ -29,7 +29,7 @@ my_class = Person
 my_class() # 会执行__init__()方法，输出“峰鸽”
 ```
 
-![image-20200510142354410](E:\note\慕课网Python高级核心97讲\Untitled.assets\image-20200510142354410.png)
+![image-20200510142354410](https://github.com/GodL9211/learn/blob/master/Python%E9%AB%98%E7%BA%A7%E6%A0%B8%E5%BF%83/Untitled.assets/image-20200510142354410.png)
 
 #### 1.1.2 可以增加到集合对象中
 
